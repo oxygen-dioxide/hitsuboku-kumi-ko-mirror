@@ -11,7 +11,7 @@ According to Hitsuboku Kumi's [Terms of Use](license.md), redistribution of voic
 
 ## Download
 - [Download from github](https://github.com/oxygen-dioxide/hitsuboku-kumi-kor-mirror/archive/refs/heads/main.zip)
-
+- [Download from gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-kor-mirror/-/archive/main/hitsuboku-kumi-kor-mirror-main.zip)
 ## Links
 - CV：Cubialpha
 - [Hitsuboku Kumi official website](https://cubialpha.wixsite.com/koomstar)
